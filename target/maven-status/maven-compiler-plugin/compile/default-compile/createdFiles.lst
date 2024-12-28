@@ -1,0 +1,6 @@
+com\crm\dao\ContactHistoryDAO.class
+com\crm\model\User.class
+main\java\com\crm\dao\CustomerDAO.class
+com\crm\model\ContactHistory.class
+com\crm\model\Customer.class
+com\crm\config\DatabaseConfig.class
