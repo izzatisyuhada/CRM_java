@@ -1,4 +1,4 @@
-package main.java.com.crm.config;
+package com.crm.config;
 
 import java.io.IOException;
 import java.sql.Connection;

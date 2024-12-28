@@ -1,4 +1,4 @@
-package main.java.com.crm.dao;
+package com.crm.dao;
 
 import com.crm.model.ContactHistory;
 import com.crm.config.DatabaseConfig;
